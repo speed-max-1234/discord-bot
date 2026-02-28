@@ -11,4 +11,4 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 async def on_ready():
     print(f"Logged in as {bot.user}")
 
-bot.run(os.getenv("srv-d6gtfdua2pns7386d4e0?key=yZT1qF1wUww"))
+bot.run(os.getenv("MTQ3Njk3MzQzNjIzMTM1NjQ3Nw.GAjJ_y.yh8IXuTspSFAyb1MOvpxhC-ZSQ5JO6wixRqD2o"))
